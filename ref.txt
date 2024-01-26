@@ -1,0 +1,7 @@
+\begin{frame}
+        \frametitle{Források}
+    \begin{itemize}
+        \item geogebra.org/m/vJfNQG6M
+	\item en.wikipedia.org/wiki/Nine-point_circle
+     \end{itemize}
+\end{frame}
